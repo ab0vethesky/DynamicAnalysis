@@ -27,7 +27,7 @@ public class CyclomaticComplexity {
         try {
 
         //Declare the file name		
-        fileName = "C:\\Users\\Tara\\git\\weka\\weka\\src\\main\\java\\weka\\dynamicAnalysis\\Cc.java";
+        fileName = "C:\\Users\\asgard\\git\\weka\\weka\\src\\main\\java\\weka\\dynamicAnalysis\\Cc.java";
      
         
         FileReader fr = new FileReader(fileName); 

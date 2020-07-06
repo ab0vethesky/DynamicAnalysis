@@ -33,8 +33,8 @@ public class Excels
    //Create a timestamp to be appended to the excel file upon creation, to allow for a new file to be created anytime the trace is executed.
     static String timestp = new SimpleDateFormat(DATE_FORMAT).format(new Date());
     // Specify the location and filename for the excel file, change the value here to indicate the location wwhere the CSV file will be saved
-    //public static final String FILE_NAME = "C:\\Users\\Tara\\workspace\\JHotDraw\\src\\dynamicAnalysis\\Traces\\Trace_" + timestp + ".csv";
-    public static final String FILE_NAME = "C:\\Users\\Tara\\git\\weka\\weka\\src\\main\\java\\weka\\dynamicAnalysis\\Traces\\Trace_" + timestp + ".csv";
+    //public static final String FILE_NAME = "C:\\Users\\asgard\\workspace\\JHotDraw\\src\\dynamicAnalysis\\Traces\\Trace_" + timestp + ".csv";
+    public static final String FILE_NAME = "C:\\Users\\asgard\\git\\weka\\weka\\src\\main\\java\\weka\\dynamicAnalysis\\Traces\\Trace_" + timestp + ".csv";
  
     /*
      *

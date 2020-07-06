@@ -14,7 +14,7 @@ public class CreateExcel {
    
     public static void main(String[] args) {
     	
-    	 String filename ="C:\\Users\\Tara\\git\\weka\\weka\\src\\main\\java\\weka\\dynamicAnalysis\\Traces\\Trace_" + timestp + ".csv";
+    	 String filename ="C:\\Users\\asgard\\git\\weka\\weka\\src\\main\\java\\weka\\dynamicAnalysis\\Traces\\Trace_" + timestp + ".csv";
         try {
             FileWriter fw = new FileWriter(filename);
             Class.forName("com.mysql.jdbc.Driver").newInstance();
