@@ -1,0 +1,9 @@
+Method,No of Calls
+add,2
+clear,2
+createFrame,1
+getDefault,2
+main,1
+paint,1
+paintComponent,4
+run,1
