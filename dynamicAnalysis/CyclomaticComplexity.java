@@ -1,5 +1,4 @@
-/*
- * CyclomaticComplexity.java created by Oladipo Oyekanmi, 28 December 2015
+/* 
  * Create an array to hold keywords to be check for complexity
  * read the file using Buffered Reader
  * Divide 
